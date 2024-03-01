@@ -1,0 +1,32 @@
+body {
+    background-image: url(asset/wpp3.jpg);
+    background-size: cover;
+    height: 40vh;
+    width: 100%;
+
+}
+
+#satu {
+    background-color: #373D20 ;
+    
+}
+
+#link {
+    font-family: "Inria Serif", serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+#dua {
+    background-color: #717744 ;
+}
+
+#tiga {
+    background-color: #BCBD8B ;
+}
+
+ .a {
+    font-family: "Inria Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
